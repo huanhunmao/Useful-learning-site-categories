@@ -12,3 +12,7 @@ https://github.com/QSCTech/zju-icicles/tree/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E
 
 1-2、我会继续更新课件并且放到我的另外一个仓库 daily-practice中
 
+
+## 2、leetcode 算法解析
+
+https://github.com/imcoderlemon/CodeClass
