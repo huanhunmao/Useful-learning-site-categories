@@ -27,3 +27,8 @@ http://www.html-js.com/?page=35
 ## 4、面试相关的内容 感觉比较好
 
 https://zhuanlan.zhihu.com/p/56228129
+
+
+## 5、这是一个励志的故事，如何实现大厂梦
+
+https://juejin.cn/post/6908892340698480653
