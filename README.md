@@ -21,4 +21,4 @@ https://github.com/imcoderlemon/CodeClass
 
 ## 3、这个是 一个网站 前端乱炖 感觉有些水平
 
-html-js.com/article/6313
+http://www.html-js.com/?page=35
